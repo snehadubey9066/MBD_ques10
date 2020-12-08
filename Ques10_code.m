@@ -3,8 +3,7 @@ R = 330;
 Vd = 0.7;
 V = data;
 Id = (V-Vd)/R;
-sim("Diode_Lookup.slx")
-% 
+ 
 % Vt = 26*10^-3;
 % n=1;
 % Io = 10^-14; 
